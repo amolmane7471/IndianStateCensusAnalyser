@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CensusAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-18T19:08:05" hostname="DESKTOP-4DL0KT5" time="0.057">
+  <properties/>
+  <testcase name="givenIndianCensusCSVFileReturnsCorrectRecords()" classname="CensusAnalyserTest" time="0.057"/>
+  <system-out><![CDATA[Welcome to Census Analyser problem
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
