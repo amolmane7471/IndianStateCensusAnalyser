@@ -11,7 +11,7 @@ public class CensusAnalyserTest {
 
     @Test
     public void givenIndianCensusCSVFileReturnsCorrectRecords() {
-            System.out.println("Welcome to Census Analyser problem :");
+            System.out.println("Welcome to Census Analyser problem ");
         try {
             CensusAnalyser censusAnalyser = new CensusAnalyser();
             int numOfRecords = censusAnalyser.loadIndiaCensusData(INDIA_CENSUS_CSV_FILE_PATH);
